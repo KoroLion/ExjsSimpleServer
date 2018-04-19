@@ -1,0 +1,17 @@
+{
+  "name": "exjs-simple-server",
+  "version": "1.0.0",
+  "description": "Simple web chat",
+  "main": "index.js",
+  "author": {
+    "name": "KoroLion"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KoroLion/SimpleWebServer.git"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
